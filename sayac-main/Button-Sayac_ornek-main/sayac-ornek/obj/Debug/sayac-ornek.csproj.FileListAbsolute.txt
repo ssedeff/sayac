@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\bin\Debug\sayac-ornek.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\bin\Debug\sayac-ornek.exe
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\bin\Debug\sayac-ornek.pdb
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\obj\Debug\sayac_ornek.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\obj\Debug\sayac_ornek.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.exe
+C:\Users\student\Desktop\Ahmet\ntp\sayac-ornek\sayac-ornek\obj\Debug\sayac-ornek.pdb
